@@ -1,6 +1,6 @@
 ## MVP PHP+MySQL DOCKER + .htaccess
 
-Minimal Docker with PHP, MySQL and 	`mod_rewrite` via `.htaccess`.
+Minimal Docker with PHP, MySQL and 	`mod_rewrite` and `.htaccess`.
 
 ## Set up:
 
